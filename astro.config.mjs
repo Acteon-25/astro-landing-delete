@@ -6,5 +6,5 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   integrations: [tailwind()],
   site: 'https://Acteon-25/github.io',
-  base: '/astro-landing-delete',
+  base: 'astro-landing-delete',
 });
